@@ -28,6 +28,7 @@ export const baseActionsSchema = defaultActionsSchema.or(
     'table_export',
     'authority_matrix_config',
     'db_connection',
+    'sql-query',
   ])
 );
 
