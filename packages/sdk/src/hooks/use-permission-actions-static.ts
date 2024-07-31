@@ -134,6 +134,9 @@ const actionsI18nMap: Record<
   'user|email_read': {
     description: 'permission.actionDescription.userEmailRead',
   },
+  'base|query_data': {
+    description: 'permission.actionDescription.baseQuery',
+  },
 };
 
 const actionPrefixI18nMap: Record<ActionPrefix, { title: TKey }> = {

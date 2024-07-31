@@ -255,7 +255,8 @@
       "automationDelete": "Delete automation",
       "automationRead": "Read automation",
       "automationUpdate": "Update automation",
-      "userEmailRead": "Read user email"
+      "userEmailRead": "Read user email",
+      "baseQuery": "Query base"
     }
   }
 }
